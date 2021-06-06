@@ -69,8 +69,9 @@ From **Preferences -> Link Tempo Midi -> Control Surface**:
 ## 4. Configure Keyboard Controller in Live
 1. Under MIDI Ports -> In: Behringer DeepMind 12 Input (DeepMind12) -> [ ] Track
 2. Check the Track checkbox (this allows your DeepMind 12 to act like a regular MIDI device in addition to the User Remote Script for the fancy sliders)
-3. Under MIDI Ports -> Out: Behringer DeepMind 12 Output (DeepMind12) -> [ ] Sync
-4. Check the Sync checkbox (this is optional but will let you sync your DM12 ARP to Lives tempo)
+3. Check the Sync checkbox (this is optional but will let you sync your DM12 ARP to Lives tempo)
+4. Under MIDI Ports -> Out: Behringer DeepMind 12 Output (DeepMind12) -> [ ] Sync
+5. Check the Sync checkbox (this is optional but will let you sync your DM12 ARP to Lives tempo)
 
 # Test
 1. Drag a preset from Live Browser in Categories -> Sound onto a MIDI track
