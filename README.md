@@ -1,4 +1,4 @@
-# User Remote Script for Ableton Live and the Behringer DeepMind 12
+# User Remote Script for Ableton Live and Behringer DeepMind 12
 
 ## How the script works
 The way that this script works requires you to configure your DeepMind 12 to use CC messages in whatever protocol you're connected with (MIDI, USB). 
