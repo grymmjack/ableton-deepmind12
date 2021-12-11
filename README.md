@@ -63,8 +63,9 @@ The `User Remote Scripts` directory varies depending on the type of computer you
 From **Preferences -> Link Tempo Midi -> Control Surface**:
 
 1. Under MIDI section For Control Surface choose `Behringer DeepMind 12`
-2. For Input for the DeepMind 12 Control Surface choose `DeepMind12`
+2. For Input for the DeepMind 12 Control Surface choose `DeepMind12`  
 ~~3. For Output for the DeepMind 12 Control Surface choose `DeepMind12`~~
+
 > Do NOT assign an output - you will get duplicate notes in Live if you do this
 
 ## 4. Configure Keyboard Controller in Live
